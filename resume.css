@@ -1,0 +1,177 @@
+body {
+    font-family: sans-serif;
+}
+
+#one {
+    width: 31%;
+    height: 1550px;
+    background-color: #323b4c;
+    color: #ffffff;
+    border-top-left-radius: 5px;
+}
+
+.one1p {
+    font-size: medium;
+    margin-top: -30px;
+    font-weight: 500;
+}
+
+#one1 {
+    width: 29%;
+    height: 300px;
+    margin-left: 2%;
+    margin-top: -1300px;
+    color: white;
+}
+
+#one2 {
+    width: 29%;
+    height: 400px;
+    margin-left: 2%;
+    color: white;
+    margin-top: 2PX;
+}
+
+#one3 {
+    width: 29%;
+    height: 300px;
+    margin-left: 2%;
+    color: white;
+
+}
+
+#one4 {
+    width: 29%;
+    height: 200px;
+    margin-left: 2%;
+    color: white;
+
+}
+
+#two {
+    width: 66%;
+    height: 250px;
+    margin-top: -1525px;
+    color: #323b4c;
+    float: right;
+}
+
+#two1 {
+    width: 66%;
+    height: 300px;
+    margin-top: -1295px;
+    color: #323b4c;
+    float: right;
+}
+
+#two2 {
+    width: 66%;
+    height: 300px;
+    margin-top: -985px;
+    color: #323b4c;
+    float: right;
+}
+
+#two3 {
+    width: 66%;
+    height: 400px;
+    margin-top: -670px;
+    color: #323b4c;
+    float: right;
+}
+
+#three1 {
+    width: 66%;
+    margin-left: 33%;
+    color: #323b4c;
+    height: 200px;
+    margin-top: -220px;
+}
+
+#three2 {
+    width: 30%;
+    margin-left: 66%;
+    color: #323b4c;
+    height: 200px;
+    margin-top: -220px;
+}
+
+a {
+    padding-bottom: 50px;
+
+}
+
+.one3li {
+    font-size: medium;
+    font-weight: 400;
+    margin-left: 4px;
+    margin-top: 10px;
+
+}
+
+.one4li {
+    font-size: medium;
+    font-weight: 400;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+
+.two1p {
+    font-size: large;
+    font-weight: 500;
+    margin-top: -15px;
+    margin-left: 8px;
+
+}
+
+.two3li {
+    margin-top: 10px;
+
+}
+
+#last {
+    margin-top: 15px;
+    font-weight: 500;
+    font-size: large;
+}
+
+.one2p {
+    font-size: medium;
+    margin-top: -30px;
+    font-weight: 400;
+    margin-left: 4px;
+
+}
+
+#address {
+    font-size: large;
+    font-weight: 700;
+    margin-top: -0px;
+}
+
+#addressp {
+    font-size: medium;
+    margin-top: -30px;
+    font-weight: 500;
+}
+
+#hr {
+    background-color: #323b4c;
+    height: 2px;
+}
+
+.one2p1 {
+    font-size: large;
+    font-weight: 700;
+    margin-top: -15px;
+    font-stretch: extra-expanded;
+
+}
+
+.one2p2 {
+    font-size: medium;
+    margin-top: -27px;
+    font-weight: 400;
+    margin-left: 4px;
+}
